@@ -6,7 +6,7 @@
 </div>
 
 - Vanilla HTML (HTML Thuần)
-- AlpineJS
+- AlpineJS (Thư viên được import vào file HTML)
 - Responsive Website và Mobile
 
 # RUN 
